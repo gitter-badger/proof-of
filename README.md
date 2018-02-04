@@ -1,4 +1,6 @@
 # proof-of
+
+[![Join the chat at https://gitter.im/santulan/proof-of](https://badges.gitter.im/santulan/proof-of.svg)](https://gitter.im/santulan/proof-of?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Curated collection of algorithms and resources by which blockchain networks aims to achieve distributed consensus.
 
 *Link: [`https://santulan.github.io/proof-of/`](https://santulan.github.io/proof-of/)*
