@@ -12,6 +12,9 @@ The outward or visible aspect of a website.
 
 ## Proof-of-stake
 
++ **[Wikipedia](https://en.wikipedia.org/wiki/Proof-of-stake)**: General introduction of proof-of-stake works.
+
+
 ---------------------------------------------------------
 
 # License
